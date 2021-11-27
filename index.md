@@ -1,4 +1,4 @@
-# [Home](https://mboorj.github.io) - [Projects](./projects)
+# [Home](https://mboorj.github.io) - [Glider](./glider)
 
 Hi, I'm Mollie Boor! I'm a first-year CS student at Reed College, a small school in Portland, OR. Use the links above to learn more about me and my projects. You can also find me on [LinkedIn](www.linkedin.com/in/mollie-boor) and [GitHub](https://github.com/mboorj).
 
