@@ -1,7 +1,6 @@
 # [Home](./index.md) - [About](./about.md) - [Process](./process.md) - [Gallery](./gallery.md)
 
 ## About Glider
-<!-- pick a pretty photo from the project, maybe a pile of buttons -->
 ### Glider is a lot of things. 
 
 It's a collection of buttons moving through the world. It's an experiment in typsetting things that probably shouldn't be typset. It's a test of how many buttons I can make before I snap. It's an art project inspired by Conway's Game of Life 
