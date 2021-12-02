@@ -1,4 +1,4 @@
-# [Home](./glider.md) - [About](./about.md) - [Process](./process.md) - [Gallery](./gallery.md)
+# [Home](./index.md) - [About](./about.md) - [Process](./process.md) - [Gallery](./gallery.md)
 
 ## Gallery
 
