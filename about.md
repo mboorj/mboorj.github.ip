@@ -1,13 +1,9 @@
-# [Home](./index.md) - [About](./about.md) - [Process](./process.md) - [Gallery](./gallery.md)
+# [Home](./index.md) - [About](./about.md) - [Process](./process.md) - [Gallery](./gallery.md) 
 
-## About Glider
-### Glider is a lot of things. 
+## Glider isn't about the typface, or the color, or the paper it's printed on. It's about the buttons and it's about Conway's Game of Life. 
+## Kind of.
 
-It's a collection of buttons moving through the world. It's an experiment in typsetting things that probably shouldn't be typset. It's a test of how many buttons I can make before I snap. It's an art project inspired by Conway's Game of Life 
-
-It's probably also a metaphor for something. Let me know if you figure out what it's a metaphor for. I'd really love to know.
-
-## About Conway's Game of Life
+### About Conway's Game of Life
 The Game of Life is an odd game. It's played by zero players on an infinite two dimensional board and can technically carry out any algorithm. Given different starting conditions, the game can reach a steady state almost instantly or it can go on forever.
 The rules of the game are surprisingly simple. From the game's [Wikipedia page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life):
 >1. Any live cell with two or three live neighbours survives.
@@ -23,4 +19,10 @@ spaceship form, with five cells oscilating through four positions. Aside from ju
 replace a coding language like Python or Java. Alan Zucconi has an excellent [video](https://youtu.be/Kk2MH9O4pXY) demonstrating the construction of a computer in Life, from 
 basic logic circuts to a Full Universal Turing Machine and an 8-bit programmable computer.
 
+### About Glider
 
+I said earlier that Glider is about buttons and the Game of Life. That's not completely true.
+
+The figures on the buttons aren't just re-interpretations of cellular automata for physical space. They're also portraits of humanity. 
+
+Like a glider, you continously move through space and time, forever forging a path into the future. Like a glider, you're also a part of systems far larger than yourself, moving and changing around you.
