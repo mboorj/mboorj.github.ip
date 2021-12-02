@@ -33,5 +33,5 @@ I finally found a use for all those colorful test prints; more buttons!
 
 <img src="https://user-images.githubusercontent.com/94495260/144150245-6145ae91-e770-432e-bc18-16ee9fceade2.jpg" alt="drawing" hspace="10" style="width:200px;"/>
 
-I ended up with 77 buttons in the regular edition and 23 special edition buttons for a total of 100.
+I ended up with 78 buttons in the regular edition and 22 special edition buttons for a total of 100.
 
