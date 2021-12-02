@@ -33,5 +33,5 @@ I finally found a use for all those colorful test prints; more buttons!
 
 <img src="https://user-images.githubusercontent.com/94495260/144150245-6145ae91-e770-432e-bc18-16ee9fceade2.jpg" alt="drawing" hspace="10" style="width:200px;"/>
 
-I ended up with ## buttons total. Once they were all made, it was time to sign and number the cards to go with them. <!-- count the number of buttons -->
+I ended up with 77 buttons in the regular edition and 23 special edition buttons for a total of 100.
 
