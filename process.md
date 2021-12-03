@@ -10,15 +10,15 @@ Proofing means printing, carving, re-printing, and re-carving until you get a pr
 ## Printing the Buttons
 The buttons themselves were printed on the same paper using hand-set type. The first step in printing type is to pull out the type you want from the racks and racks of different fonts. I used a font called Optima, which you can see in the case below. After the type is pulled out and spaced correctly, you can slide it into the press and start printing.
 
-<img src="https://user-images.githubusercontent.com/94495260/143725294-2db79d79-f0b9-4cd4-b83b-311315235283.jpg" alt="drawing" hspace="10" style="height:125px;"/><img src="https://user-images.githubusercontent.com/94495260/143725296-f9857bca-9ac8-4330-bdb9-e40e8527bb6b.jpg" alt="drawing" hspace="10" style="height:125px;"/>
+<img src="https://user-images.githubusercontent.com/94495260/143725294-2db79d79-f0b9-4cd4-b83b-311315235283.jpg" alt="drawing" hspace="10" style="height:200px;"/><img src="https://user-images.githubusercontent.com/94495260/143725296-f9857bca-9ac8-4330-bdb9-e40e8527bb6b.jpg" alt="drawing" hspace="10" style="height:200px;"/>
 
 Using a letterpress is a lot simpler than woodblock printing. Just slide the paper in, ink the type, then turn the crank. 
 
-<img src="https://user-images.githubusercontent.com/94495260/143725280-a3e54ece-a46d-41f9-882b-c43d03d84019.jpg" alt="drawing" hspace="10" style="width:175px;"/><img src="https://user-images.githubusercontent.com/94495260/143663692-f37ab3a1-59cc-4975-ac41-001e08494221.jpg" alt="drawing" hspace="10" style="width:175px;"/>
+<img src="https://user-images.githubusercontent.com/94495260/143725280-a3e54ece-a46d-41f9-882b-c43d03d84019.jpg" alt="drawing" hspace="10" style="width:190px;"/><img src="https://user-images.githubusercontent.com/94495260/143663692-f37ab3a1-59cc-4975-ac41-001e08494221.jpg" alt="drawing" hspace="10" style="width:905px;"/>
 
 After the full edition of plain buttons were printed, I had the chance to experiment with printing on more exciting paper.
 
-<img src="https://user-images.githubusercontent.com/94495260/143725292-9ab58e68-b699-47dd-b0d4-b2abeec8ebb3.jpg" alt="drawing" hspace="10" style="width:175px;"/><img src="https://user-images.githubusercontent.com/94495260/143663691-21d6304e-d6eb-434c-9fb3-23b020616040.jpg" alt="drawing" hspace="10" style="width:175px;"/>
+<img src="https://user-images.githubusercontent.com/94495260/143725292-9ab58e68-b699-47dd-b0d4-b2abeec8ebb3.jpg" alt="drawing" hspace="10" style="width:190px;"/><img src="https://user-images.githubusercontent.com/94495260/143663691-21d6304e-d6eb-434c-9fb3-23b020616040.jpg" alt="drawing" hspace="10" style="width:190px;"/>
 
 ## Putting it all Together
 The next step was to pull out the button maker and assemble all of the buttons. To prepare the paper, I had to use a die-cutter to cut out every glider.
