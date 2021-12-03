@@ -14,7 +14,7 @@ The buttons themselves were printed on the same paper using hand-set type. The f
 
 Using a letterpress is a lot simpler than woodblock printing. Just slide the paper in, ink the type, then turn the crank. 
 
-<img src="https://user-images.githubusercontent.com/94495260/143725280-a3e54ece-a46d-41f9-882b-c43d03d84019.jpg" alt="drawing" hspace="10" style="width:190px;"/><img src="https://user-images.githubusercontent.com/94495260/143663692-f37ab3a1-59cc-4975-ac41-001e08494221.jpg" alt="drawing" hspace="10" style="width:905px;"/>
+<img src="https://user-images.githubusercontent.com/94495260/143725280-a3e54ece-a46d-41f9-882b-c43d03d84019.jpg" alt="drawing" hspace="10" style="width:190px;"/><img src="https://user-images.githubusercontent.com/94495260/143663692-f37ab3a1-59cc-4975-ac41-001e08494221.jpg" alt="drawing" hspace="10" style="width:190px;"/>
 
 After the full edition of plain buttons were printed, I had the chance to experiment with printing on more exciting paper.
 
