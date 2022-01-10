@@ -12,11 +12,11 @@
 </pre>
 <h2 align="center">Hi, I'm Mollie, aka @mboorj!</h2>
 
-:school: I'm a first year computer science major at Reed College
+🏫 I'm a first year computer science major at Reed College
 
 🌱 I’m currently learning Python and Ruby
 
-:hammer: I'm currently working on a text adventure game and a handful of Sonic Pi projects
+🔨 I'm currently working on a text adventure game, a Twitter bot, and a handful of Sonic Pi projects
 
 ◾If you're looking for information about *Glider*, you can find it [here](./glider.md)
 
