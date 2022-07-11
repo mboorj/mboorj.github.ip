@@ -12,11 +12,9 @@
 </pre>
 <h2 align="center">Hi, I'm Mollie, aka @mboorj!</h2>
 
-🏫 I'm a first year computer science major at Reed College
+🏫 I'm a junior math major at Reed College and a TA at CTY Bristol
 
-🌱 I’m currently learning Python and Ruby
-
-🔨 I'm currently working on a text adventure game, a Twitter bot, and a handful of Sonic Pi projects
+🌱 I’m currently learning Rust and Ruby
 
 ◾If you're looking for information about *Glider*, you can find it [here](./glider.md)
 
