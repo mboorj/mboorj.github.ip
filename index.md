@@ -1,4 +1,4 @@
-# [Home](./index.md) - [Glider](./glider.md) - [Lit Bot](./lit-bot.md) 
+# [Home](./index.md) - [Glider](./glider.md) - [Photography](./portfolio.md)
 
 <pre>
   <code>
@@ -10,13 +10,10 @@
   -.>++++++++++[>++++++++++<-]>.>++++[>++++++++<-]>+.
   </code>
 </pre>
-<h2 align="center">Hi, I'm Mollie, aka @mboorj!</h2>
+<h2 align="center">Hi, I'm Mollie!</h2>
 
-🏫 I'm a junior math major at Reed College and a TA at CTY Bristol
+🏫 I'm a senior math major at Reed College writing my thesis on the Partition Algebra
 
-🌱 I’m currently learning Rust and Ruby
-
-◾If you're looking for information about *Glider*, you can find it [here](./glider.md)
 
 <h4>You can also find me on...</h4>
 
